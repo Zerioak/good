@@ -7,7 +7,7 @@ from discord.ext import commands, tasks
 from discord import app_commands
 
 # ---------------- CONFIG ----------------
-TOKEN = ""  # your bot token
+TOKEN = "MTM5NjUxMzM1NDQxOTQwNDk2Mg.Gru61x.ZOR0BftqOE7AoPzbqutr0LMYrY1dRzfMxlTh-I"  # your bot token
 DEPLOY_ROLE_ID = 1408756794561527818  # replace with your role ID
 RAM_LIMIT = "2g"
 SERVER_LIMIT = 12
