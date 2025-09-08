@@ -5,6 +5,9 @@
 > You need a Discord bot token from [Discord Developer Portal](https://discord.dev). Create a application there.
 >
 >  Also this code is EoL, you may see broken stuff like ramlimits, etc.
+>
+>  Join discortd.gg/compute
+
 
 **Features**
 - Quick and easy deployment using Docker
