@@ -6,7 +6,7 @@
 >
 >  Also this code is EoL, you may see broken stuff like ramlimits, etc.
 >
->  Join discortd.gg/compute
+>  Join discord.gg/compute
 
 
 **Features**
